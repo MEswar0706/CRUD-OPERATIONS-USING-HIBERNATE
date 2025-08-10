@@ -1,0 +1,19 @@
+<project>
+<modelVersion>4.0.0</modelVersion>
+	<groupId>com.hibernatecrud</groupId>
+	<artifactId>CrudOperationsUsingHibernate</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.hibernate.orm</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>7.0.9.Final</version>
+		</dependency>
+		<dependency>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
+			<version>9.3.0</version>
+		</dependency>
+	</dependencies>
+</project>
