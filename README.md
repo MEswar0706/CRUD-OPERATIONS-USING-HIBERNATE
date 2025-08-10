@@ -96,12 +96,6 @@ Create `src/main/resources/hibernate.cfg.xml`:
 ---
 
 
-
-## 📜 License
-This project is open-source and available under the [MIT License](./LICENSE).
-
----
-
 ## 📧 Contact
 For queries, please open an **issue** on GitHub:
 
