@@ -16,7 +16,6 @@ The project uses **MySQL** as the database.
 ---
 
 
----
 
 ## 🛠 Getting Started
 
